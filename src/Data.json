@@ -1,0 +1,51 @@
+[
+    {
+        "image":"menu-1.jpg",
+        "title":"Chicken Burger",
+        "text":"today",
+        "price": 115
+    },
+    {
+        "image":"menu-2.jpg",
+        "title":"Chicken Burger2",
+        "text":"is",
+        "price": 115
+    },
+    {
+        "image":"menu-3.jpg",
+        "title":"Chicken Burger3",
+        "text":"a",
+        "price": 115
+    },
+    {
+        "image":"menu-4.jpg",
+        "title":"Chicken Burger4",
+        "text":"good",
+        "price": 115
+    },
+    {
+        "image":"menu-5.jpg",
+        "title":"Chicken Burger5",
+        "text":"day",
+        "price": 115
+    },
+    {
+        "image":"menu-6.jpg",
+        "title":"Chicken Burger5",
+        "text":"i will",
+        "price": 115
+    },
+    {
+        "image":"menu-7.jpg",
+        "title":"Chicken Burger5",
+        "text":"remain",
+        "price": 115
+    },
+    {
+        "image":"menu-8.jpg",
+        "title":"Chicken Burger5",
+        "text":"joyful",
+        "price": 115
+    }
+    
+]

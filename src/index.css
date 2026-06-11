@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base{
+    body{
+        @apply tracking-wide font-Nunito text-bgSecondary bg-[#f8f9fa]
+    }
+}
+.slick-slide > div{
+    margin: 10px;
+}
+/* Increase the size of the dots */
+.slick-dots li button:before {
+  font-size: 18px; /* Adjust the size of the dot */
+  width: 18px; /* Set the size of the dot */
+  height: 18px; /* Set the size of the dot */
+  border-radius: 50%; /* Ensure the dots are circular */
+  background-color: #ff8c00; /* Customize the dot color */
+  opacity: 1; /* Ensure the dot is fully visible */
+}
+
+/* Optional: Style the active dot */
+.slick-dots li.slick-active button:before {
+  background-color: #ff4500; /* Active dot color */
+}
